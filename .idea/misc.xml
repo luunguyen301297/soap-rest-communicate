@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/rest-service/pom.xml" />
         <option value="$PROJECT_DIR$/SOAP_Geolocation/pom.xml" />
         <option value="$PROJECT_DIR$/soap/pom.xml" />
+        <option value="$PROJECT_DIR$/soap-service/pom.xml" />
       </list>
     </option>
   </component>
